@@ -1,0 +1,25 @@
+
+
+
+{
+  "users": [
+    {
+      "name": "Arafat",
+      "department": "Engineer ",
+      "salary": "50000901",
+      "id": 1
+    },
+    {
+      "name": "Rahile",
+      "department": "Emin ",
+      "salary": "10000000",
+      "id": 2
+    },
+    {
+      "name": "Meryem",
+      "salary": "300000",
+      "department": "Emin",
+      "id": 3
+    }
+  ]
+}
